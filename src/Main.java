@@ -21,7 +21,7 @@ public class Main {
         /**
          * среднее
          */
-        double midle = 0;
+        float midle = 0;
         for (int i = 0; i < array.length; i++){
             midle += array[i];
         }
